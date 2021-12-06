@@ -1,0 +1,11 @@
+* {
+  background-color: aqua;
+}
+img {
+  max-width: 100%;
+}
+
+body {
+  background-color: aqua;
+  margin: 2rem;
+}
